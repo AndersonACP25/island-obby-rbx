@@ -1,0 +1,14 @@
+# Archivos locales y resultados generados
+.DS_Store
+Thumbs.db
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxl.autosave
+*.rbxlx.autosave
+build/
+.env
+.env.*
+!.env.example
+
+# Las copias .rbxl/.rbxlx NO se ignoran globalmente:
+# guardar una copia canónica en places/ cuando exista un mapa propio.
